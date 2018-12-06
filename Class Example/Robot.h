@@ -3,7 +3,7 @@
 #include <string>
 
 using namespace std;
-
+ 
 class Robot
 {
 public:
